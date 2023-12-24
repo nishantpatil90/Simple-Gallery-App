@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Simple Gallery App</string>
+    <string name="app_permission_rationale">This app requires image access permissions. Please grant them in the app settings.</string>
 </resources>

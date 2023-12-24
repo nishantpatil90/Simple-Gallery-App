@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="image_icon_size">100dp</dimen>
+    <dimen name="album_icon_size">172dp</dimen>
+    <dimen name="spacing_1dp">1dp</dimen>
+</resources>
